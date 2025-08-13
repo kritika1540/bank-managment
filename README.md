@@ -14,9 +14,7 @@ Tech Stack:
 
 Backend: Node.js, Express.js
 
-Database: MongoDB / MySQL (depending on your setup)
-
-Templating Engine: EJS / Handlebars (if used)
+Database:  MySQL 
 
 Frontend: HTML, CSS, JavaScript, Bootstrap
 
@@ -47,6 +45,8 @@ The registration page enables new users to create an account. It collects essent
 
 4. Employee Dashboard / List Page
 Once logged in, the user is redirected to the Employee Dashboard, which displays a table of all employees stored in the database. Each record contains employee details such as name, position, department, and contact information. The page also provides options to add, edit, or delete employee records, enabling quick and efficient data management.
+
+<img width="904" height="221" alt="image" src="https://github.com/user-attachments/assets/e4746be2-ff21-4598-b327-bc0bc5658dd0" />
 
 5. Add Employee Page
 The add employee page contains a form where users can enter details for a new employee, such as name, designation, department, salary, and contact number. On submission, the data is validated and inserted into the database, and the user is redirected back to the dashboard with a confirmation message.
